@@ -31,7 +31,7 @@ I am making:
 * 曾经参与制作：𝔄𝔘 𝔐𝔒𝔇：𝔗𝔒ℌ𝔈𝔛
 * 个人制作：暂无！可以期待一下上述正在制作
 
-#### 联系我！ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕞𝕖!(only China,no discord...will have)
+#### 联系我！ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕞𝕖!
 
 <p align="center">
 <a href="https://space.bilibili.com/1638639993" target="_blank"><img src="https://img.shields.io/badge/Bilibili%20-%231DA1F2.svg?&style=for-the-badge&logo=bilibili&logoColor=white&color=fb7299"/></a>
