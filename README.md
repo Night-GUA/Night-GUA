@@ -33,9 +33,8 @@ I am making:
 
 #### 联系我！ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕞𝕖!
 
-<p align="center">
 <a href="https://space.bilibili.com/1638639993" target="_blank"><img src="https://img.shields.io/badge/Bilibili%20-%231DA1F2.svg?&style=for-the-badge&logo=bilibili&logoColor=white&color=fb7299"/></a>
-<a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ZkI62p-PuRNYJ8XApcEhbUdB47jXGxlt&authKey=GvgiEi%2B1RRQfcpGhnJbl18y7UJdikvxDqvWjPVp7lUlYaM686ht1jmiQutVjkyZs&noverify=0&group_code=829210249" target="_blank"><img src="https://img.shields.io/badge/QQ%20-%231DA1F2.svg?&style=for-the-badge&logo=Tencent+QQ&logoColor=white&color=1e6fff"/></a>
+<a href="https://qm.qq.com/q/rrsOJ3Zd7M" target="_blank"><img src="https://img.shields.io/badge/QQ%20-%231DA1F2.svg?&style=for-the-badge&logo=Tencent+QQ&logoColor=white&color=1e6fff"/></a>
 <a href="https://v.douyin.com/iReuqodH/" target="_blank"><img src="https://img.shields.io/badge/抖音Tiktok%20-%231DA1F2.svg?&style=for-the-badge&logo=tiktok&logoColor=white&color=696969"/></a>
 <a href="https://www.ixigua.com/home/66342900090" target="_blank"><img src="https://img.shields.io/badge/西瓜视频ixigua%20-%231DA1F2.svg?&style=for-the-badge&logo=tiktok&logoColor=white&color=ff0000"/></a>
 <a href="https://discord.gg/9Jy7gzPq" target="_blank"><img src="https://img.shields.io/badge/Discord%20-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white&color=000000"/></a>
