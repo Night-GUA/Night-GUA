@@ -1,35 +1,12 @@
-### 你好Hello
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Night-GUA)  
 
-嘿~啥都不会的吃瓜能手一个啊~
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Night-GUA)   
 
-Hey,I am Yu
+## 喜爱的角色：银狼 芙芙 木之本樱----待完  
 
-~~精通Scratch，此外什么都不熟练（~~
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Night-GUA&theme=react-dark)
 
-会Python,C++,C#
-
-can use Python,C++ and C#
-
-懂一点Html（真就一点！
-
-### 爱好
-
-~~踹翻全世界！~~
-
-咳咳，我觉得做人还是要正经点，我喜欢~~唱跳rap篮球~~玩AmongUs、原神、崩铁、写代码，~~睡觉~~
-
-I like playing AmongUs,Genshin Impact,Honkai:StarRail,coding,~~sleep~~
-
-### 作品
-
-我目前正在~~摆烂~~制作：
-I am making:
-
-* 𝒜𝒰 𝑀𝒪𝒟：MCI-Yu YuAntiCheat
-
-代表作：
-* 曾经参与制作：𝔄𝔘 𝔐𝔒𝔇：𝔗𝔒ℌ𝔈𝔛
-* 个人制作：暂无！可以期待一下上述正在制作
+![gh](https://stats.justsong.cn/api/github/?username=Night-GUA&theme=light)
 
 #### 联系我！ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕞𝕖!
 
@@ -41,4 +18,4 @@ I am making:
 
 </p>
 
-#### 祝你天天开心 bye！
+Have a good code day
