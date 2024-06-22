@@ -1,8 +1,12 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Night-GUA)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Night-GUA)   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Night-GUA) 
 
-## 喜爱的角色：银狼 芙芙 木之本樱----待完  
+<p align="center">
+ <img src="https://github-widgetbox.vercel.app/api/profile?username=Night-GUA&data=followers,repositories,stars,commits&theme=nautilus" align="center" alt="Stats" />
+</p>
+
+## 我推：银狼 芙芙 木之本樱 知世 白子----待完  
 
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Night-GUA&theme=react-dark)
 
