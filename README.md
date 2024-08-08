@@ -18,7 +18,7 @@
 <a href="https://qm.qq.com/q/rrsOJ3Zd7M" target="_blank"><img src="https://img.shields.io/badge/QQ%20-%231DA1F2.svg?&style=for-the-badge&logo=Tencent+QQ&logoColor=white&color=1e6fff"/></a>
 <a href="https://v.douyin.com/iReuqodH/" target="_blank"><img src="https://img.shields.io/badge/抖音Tiktok%20-%231DA1F2.svg?&style=for-the-badge&logo=tiktok&logoColor=white&color=696969"/></a>
 <a href="https://www.ixigua.com/home/66342900090" target="_blank"><img src="https://img.shields.io/badge/西瓜视频ixigua%20-%231DA1F2.svg?&style=for-the-badge&logo=tiktok&logoColor=white&color=ff0000"/></a>
-<a href="https://discord.gg/9Jy7gzPq" target="_blank"><img src="https://img.shields.io/badge/Discord%20-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white&color=000000"/></a>
+<a href="https://discord.gg/42tyx9FyD7" target="_blank"><img src="https://img.shields.io/badge/Discord%20-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white&color=000000"/></a>
 
 </p>
 
