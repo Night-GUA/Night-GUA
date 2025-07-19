@@ -6,7 +6,7 @@
  <img src="https://github-widgetbox.vercel.app/api/profile?username=Night-GUA&data=followers,repositories,stars,commits&theme=nautilus" align="center" alt="Stats" />
 </p>
 
-## 我推：原神「芙宁娜」1999「vv」----待完  
+## 我推：原神「芙宁娜」1999「vv」PJSK「奏」GBC「nina」「486」----待完  排名不分先后 都是我老婆
 
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Night-GUA&theme=react-dark)
 
